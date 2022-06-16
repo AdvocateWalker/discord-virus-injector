@@ -27,7 +27,7 @@ if not os.path.exists('./toInject'): os.mkdir('./toInject')
 tasks = []
 allimages = os.listdir('./toInject')
 for img in allimages:
-    if img.endswith('.png') or img.endswith('.jpg') or img.endswith('jpeg') or img.endswith('webm') or img.endswith('jfif') or img.endswith('mp4') or img.endswith('mov') or img.endswith('webp'):
+    if img.endswith('.png') or img.endswith('.jpg') or img.endswith('jpeg') or img.endswith('webm') or img.endswith('jfif') or img.endswith('mp4') or img.endswith('mov') or img.endswith('webp') or img.endswith('gif'):
         tasks.append(img)
     else:
         continue

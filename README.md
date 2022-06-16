@@ -36,4 +36,5 @@ mov
 mp4
 webm
 webp
+gif
 ```

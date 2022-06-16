@@ -10,7 +10,7 @@ is dangerous in the repertory.
 
 If you came here to check what the hell is that well it is not dangerous and yes i understand that peoples panic when they see that but don't worry
 there's no indian scammer trying to rat you with an image.
-
+<img src="https://github.com/TaxMachine/discord-virus-injector/raw/main/virutotal.png">
 ## How to disable the trigger
  - Go in your windows defender settings
  - Go in Virus and Threat protection
